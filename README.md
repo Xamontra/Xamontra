@@ -1,6 +1,6 @@
 <h1 align="center">Xamontra</h1>
 
-<p>Selam,adım Ali Fuat, 23 yaşındayım ve Bilgisayar Programcılığı son sınıf öğrencisiyim.Kickte Yayıncılık,Youtube ve Instagramda ise dijital içerik üreticiliği yapıyorum.Yaptığım projeleri Githubda paylaşıyorum,destek için takip edebilirsiniz.</p>
+<p>Selam,adım Ali Fuat, 23 yaşındayım ve Bilgisayar Programcılığı son sınıf öğrencisiyim.Kickte Yayıncılık,Youtube ve Instagramda ise dijital içerik üreticiliği yapıyorum.Oyun,Yazılım,Elektronik,Teknoloji konseptleriyle ilgileniyorum.Yaptığım projeleri Githubda paylaşıyorum,destek için takip edebilirsiniz.</p>
 
 
 <h3 align="left">Dİller ve Araçlar:</h3>
