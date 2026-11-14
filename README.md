@@ -9,7 +9,7 @@
 
 <h3 align="left">Bağlantılar:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/xamontra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xamontra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Xamontra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xamontra" height="30" width="40" /></a>
 <a href="https://instagram.com/xamontra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xamontra" height="30" width="40" /></a>
 <a href="https://discord.gg/xamontra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xamontra" height="30" width="40" /></a>
 </p>
