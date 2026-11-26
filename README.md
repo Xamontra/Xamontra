@@ -12,13 +12,3 @@
 <a href="https://discord.gg/xamontra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xamontra" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xamontra&show_icons=true&locale=en&layout=compact" alt="xamontra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xamontra&show_icons=true&locale=en" alt="xamontra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xamontra&" alt="xamontra" /></p>
-
-
-
